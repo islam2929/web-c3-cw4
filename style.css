@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(87, 12, 92);
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.card{
+    background-color: rgb(4, 94, 9);
+    width: 400px;
+    height: 200px;
+    border: 4px;
+    box-shadow: none;
+
+}
+
+.card2{
+    background-color: rgb(27, 12, 92);
+    width: 400px;
+    height: 200px;
+    border-style: groove;
+
+
+}
